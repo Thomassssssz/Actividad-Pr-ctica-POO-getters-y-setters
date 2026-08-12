@@ -1,0 +1,29 @@
+{
+  "name": "actividad-pr-ctica-poo-getters-y-setters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ej1": "node ej1.ts",
+    "ej2": "node ej2.ts",
+    "ej3": "node ej3.ts",
+    "ej4": "node ej4.ts",
+    "ej5": "node ej5.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thomassssssz/Actividad-Pr-ctica-POO-getters-y-setters.git"
+  },
+  "keywords": [],
+  "author": "Tomas Vega",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Thomassssssz/Actividad-Pr-ctica-POO-getters-y-setters/issues"
+  },
+  "homepage": "https://github.com/Thomassssssz/Actividad-Pr-ctica-POO-getters-y-setters#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
