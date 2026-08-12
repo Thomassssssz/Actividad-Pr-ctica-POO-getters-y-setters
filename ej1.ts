@@ -29,7 +29,7 @@ class Producto {
       this.stock = this.stock - cantidad;
       return "Venta realizada";
     } else {
-      return "No hay stock suficiente";
+      return "No hay stock suficiente"; //  <---- Elijo devolver un mensaje para informar que no se pudo realizar la venta sin detener el programa
     }
   }
 
