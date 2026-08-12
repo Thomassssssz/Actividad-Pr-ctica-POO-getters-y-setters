@@ -1,4 +1,4 @@
-class Empleado {
+export class Empleado {
   protected nombre: string;
   protected antiguedad: number;
 
@@ -16,7 +16,7 @@ class Empleado {
   }
 }
 
-class EmpleadoFijo extends Empleado {
+export class EmpleadoFijo extends Empleado {
   sueldoBase: number;
 
   constructor(nombre: string, antiguedad: number, sueldoBase: number) {
